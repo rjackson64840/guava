@@ -1,4 +1,4 @@
-![depshield](https://uxm15cj44g.execute-api.us-east-2.amazonaws.com/prod/badges/rjackson64840/guava/depshield.svg)
+![depshield](https://staging.depshield.sonatype.org/badges/rjackson64840/guava/depshield.svg)
 # Guava: Google Core Libraries for Java
 
 [![Latest release](https://img.shields.io/github/release/google/guava.svg)](https://github.com/google/guava/releases/latest)
